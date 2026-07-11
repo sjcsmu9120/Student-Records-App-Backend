@@ -8,8 +8,8 @@ A web application for managing student information and marks, built with **Node.
 ## 🚀 Live Demo
 - **Frontend**: [https://student-records-app-frontend.vercel.app](https://student-records-app-frontend.vercel.app)  
 - **Backend API**: [https://student-records-app-backend.vercel.app](https://student-records-app-backend.vercel.app)  
-- **Frontend Github**: [https://github.com/satyamjaysawal/Student-Records-App-Frontend.git](https://github.com/satyamjaysawal/Student-Records-App-Frontend.git)
-- **Backend Github**: [https://github.com/satyamjaysawal/Student-Records-App-Backend.git](https://github.com/satyamjaysawal/Student-Records-App-Backend.git)
+- **Frontend Github**: [https://github.com/shivamjaiswal/Student-Records-App-Frontend.git](https://github.com/shivamjaiswal/Student-Records-App-Frontend.git)
+- **Backend Github**: [https://github.com/shivamjaiswal/Student-Records-App-Backend.git](https://github.com/shivamjaiswal/Student-Records-App-Backend.git)
 
 
 ---
@@ -67,11 +67,11 @@ student-records-app/
 ### 1️⃣ **Clone the Repositories**
 ```bash
 # Clone Frontend
-git clone https://github.com/satyamjaysawal/Student-Records-App-Frontend.git
+git clone https://github.com/shivamjaiswal/Student-Records-App-Frontend.git
 cd student-records-app-frontend
 
 # Clone Backend
-git clone https://github.com/satyamjaysawal/Student-Records-App-Backend.git
+git clone https://github.com/shivamjaiswal/Student-Records-App-Backend.git
 cd student-records-app-backend
 ```
 
